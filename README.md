@@ -1,10 +1,10 @@
-# scholarlens
+# ThinkStack
 
 offline slm-based research literature review agent for independent researchers and students.
 
 ## overview
 
-scholarlens is a privacy-first, fully offline tool that helps researchers:
+ ThinkStack is a privacy-first, fully offline tool that helps researchers:
 - ingest and index research papers (pdf)
 - perform semantic and keyword search across their paper collection
 - generate paper summaries and extract key claims
